@@ -1,5 +1,3 @@
----
----
 /*
 	Ion by TEMPLATED
 	templated.co @templatedco
