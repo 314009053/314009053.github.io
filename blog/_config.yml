@@ -1,0 +1,12 @@
+# Site settings
+title: Ion
+email: jianwengs@163.com
+description: > # this means to ignore newlines until "baseurl:"
+  木悉草心芳，肝晓胆衷肠
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "314009053.github.io" # the base hostname & protocol for your site
+QQ: 1072969094
+github_username:  314009053
+
+# Build settings
+markdown: kramdown
